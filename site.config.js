@@ -7,19 +7,19 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Garry Chen',
-  domain: 'None for now',
+  name: 'Garry',
+  domain: 'garry.site',
   author: 'CHEN JIARUI',
 
   // open graph metadata (optional)
-  description: 'Example site description',
-  socialImageTitle: 'Transitive Bullshit',
+  description: 'Work hard is all you need!',
+  socialImageTitle: 'Schrödinger state of Optimistic && pessimistic',
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  twitter: 'LeadChaos',
+  github: 'op-Valar-Morghulis',
+  linkedin: '',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
